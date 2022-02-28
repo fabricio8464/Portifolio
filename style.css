@@ -1,0 +1,46 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    width: 100vw;
+    height: 100vh;
+}
+.container{
+    width: 100%;
+    height: 100%;
+}
+.sidebar{
+    float: left;
+    background-color: #686c;
+    border-radius: 0px 4px 4px 0px;
+    height: 100%;
+    padding: 20px;
+}
+
+.profile-picture{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid black;
+    margin-bottom: 20px;
+}
+
+.itens{
+    margin-top: 5%;
+    background-color: blue;
+    border-radius: 4px;
+    padding: 10px;
+    width: 100%;
+    height: fit-content;
+}
+.title-sections{
+    text-align: center;
+}
+
+
